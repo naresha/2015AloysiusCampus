@@ -1,0 +1,10 @@
+input.csv file will contain the exam score of all the students in CSV format. The data will be in the following order
+rollNumber, studentName, subject1, subject2, subject3
+
+Write a command line program to produce the following
+1. File output.csv to contain the following in the descending order or total scores
+rollNumber, studentName, subject1, subject2, subject3, totalScore, averageScore
+
+2. Print names of top 5 scorers
+3. Print names of bottom 2 scorers
+4. What are the average scores in each subject?
